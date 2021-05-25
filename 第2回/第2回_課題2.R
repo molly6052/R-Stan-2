@@ -37,7 +37,7 @@ s <- tail(s, length(s))@@@@@@@@@@#tail:ƒf[ƒ^‚Ì––”ö‚ðŽæ‚èo‚·ŠÖ”@‚±‚
 plot(s)
 
 s <- tail(s, length(s)-1000)               #ƒf[ƒ^‚Ì––”ö1000ŒÂ‚ðŽæ‚èœ‚­
-plot(s)
+plot(s)                                    #
 
 class(target)
 
